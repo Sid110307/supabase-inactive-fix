@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Ankura",
+    "supabase_url": "https://jtkufohcmtehtdnrdwia.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_ANKURA",
+    "table_name": "_keep-alive"
+  }
+]
