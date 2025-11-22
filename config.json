@@ -2,7 +2,7 @@
   {
     "name": "Ankura",
     "supabase_url": "https://jtkufohcmtehtdnrdwia.supabase.co",
-    "supabase_key_env": "SUPABASE_KEY_ANKURA",
+    "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "_keep-alive"
   }
 ]
